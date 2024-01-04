@@ -1,0 +1,7 @@
+1. check the visualizer
+2. genetic algorithm 
+3. level
+4. fitness function
+5. traffic
+
+
